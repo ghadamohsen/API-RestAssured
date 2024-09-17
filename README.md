@@ -1,6 +1,5 @@
-# API Automation Framework
-
-This project is a framework for automating API testing using Rest Assured and TestNG.
+# API 
+This small task for API testing using Rest Assured and TestNG.
 
 ## Getting Started
 
