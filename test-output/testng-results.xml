@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-17T22:18:16 EEST" name="Default suite" finished-at="2024-09-17T22:18:24 EEST" duration-ms="8319">
+    <groups>
+    </groups>
+    <test started-at="2024-09-17T22:18:16 EEST" name="Default test" finished-at="2024-09-17T22:18:24 EEST" duration-ms="8319">
+      <class name="tests.AddDeviceTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.AddDeviceTest@f107c50]" started-at="2024-09-17T22:18:16 EEST" name="setUp" finished-at="2024-09-17T22:18:17 EEST" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAddNewDevice()[pri:0, instance:tests.AddDeviceTest@f107c50]" started-at="2024-09-17T22:18:17 EEST" name="testAddNewDevice" description="Test to add a new device and validate the response" finished-at="2024-09-17T22:18:24 EEST" duration-ms="7736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNewDevice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.AddDeviceTest@f107c50]" started-at="2024-09-17T22:18:24 EEST" name="tearDown" finished-at="2024-09-17T22:18:24 EEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AddDeviceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
